@@ -2,17 +2,17 @@
 GraphicEditor with JAVA Design Patterns
 ###Program Outline
 
->JAVA version 8.0
+- JAVA version 8.0
 
->Using javax.swing.JFrame library
+- Using javax.swing.JFrame library
 
 
 ###Program Menus
 
->Toolbar (Rectangle, Circle..)
+- Toolbar (Rectangle, Circle..)
 
->FileMenu (Open, Save..)
+- FileMenu (Open, Save..)
 
->EditMenu (Cut, Paste..)
+- EditMenu (Cut, Paste..)
 
->ColorMenu (LineColor, FillColor..)
+- ColorMenu (LineColor, FillColor..)
